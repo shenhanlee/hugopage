@@ -45,37 +45,32 @@ interests:
   - Cancer Biology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Membership of the Royal College of Surgeons of the United Kingdom & Ireland (MRCS)
+    institution: Royal College of Surgeons in Ireland
+    date_end: 2018-03-01
+  - area: Bachelor of Medicine & Bachelor of Surgery (MBBS)
+    insitution: Barts & The London School of Medicine & Dentistry, Queen Mary University of London
+    date_start: 2007-09-01
+    date_end: 2014-05-31
+  - area: Doctor of Philosophy (PhD), Oncology
+    institution: University of Cambridge
+    date_start: 2008-10-01
+    date_end: 2013-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: 1H Magnetic Resonance Spectroscopic Imaging of Tumour Extracellular pH: The Role of Carbonic Anhydrase IX. Supervised by [Professor John R. Griffiths](https://crukcambridgecentre.org.uk/users/griffiths).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      url: 'https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21432577870003606'
+  - area: Master of Arts
+    institution: University of Cambridge
     date_start: 2016-01-01
     date_end: 2020-12-31
+  - area: Bachelor of Arts (Honours)
+    institution: University of Cambridge
+    date_start: 2004-10-01
+    date_end: 2008-05-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     Preclinical Medicine: Part I Medical Sciences, Part II Natural Sciences (Pharmacology)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
