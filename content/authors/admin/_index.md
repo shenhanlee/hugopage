@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Shen-Han Lee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Shen-Han
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +13,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Otorhinolaryngology-Head & Neck Surgery Resident | PhD in Oncology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: School of Medical Sciences, Universiti Sains Malaysia
+    url: https://medic.usm.my/home-orlhns.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shen-han.lee@cantab.net'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/shenhanlee
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/shenhanlee
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/shenhanlee
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shenhanlee
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=user=MvBDldgAAAAJ&hl=&user=MvBDldgAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6147-2963
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Otorhinolaryngology-Head & Neck Surgery
+  - Artificial Intelligence in Healthcare
+  - Cancer Biology
 
 education:
   - area: PhD Artificial Intelligence
