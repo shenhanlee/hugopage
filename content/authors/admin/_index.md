@@ -171,4 +171,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shen-Han Lee is a Resident in Otorhinolaryngology-Head & Neck Surgery at Universiti Sains Malaysia with a PhD in Oncology. His research interests include otorhinolaryngology-head & neck surgery, artificial intelligence in healthcare and tumour metabolism and microenvironment.
