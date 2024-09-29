@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As an otorhinolaryngology-head & neck surgery resident, my primary focus is on the care of patients with various ear, nose, throat and head and neck conditions. Outside of clinical work, I have been involved in a wide spectrum of research, from basic cell biology to translational and clinical research. I undertook a PhD in cancer research at the University of Cambridge, studying the pH of solid tumours using molecular imaging, and I maintain an active interest in the field of cancer metabolism and microenvironment. My current research interest is focused on large language models in otorhinolaryngology-head & neck surgery.   
+ 
+        Please feel free to reach out to collaborate.
     design:
       columns: '1'
   - block: collection
