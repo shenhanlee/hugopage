@@ -45,11 +45,11 @@ interests:
   - Cancer Biology
 
 education:
-  - area: Membership of the Royal College of Surgeons of the United Kingdom & Ireland (MRCS)
+  - area: Membership of the Royal College of Surgeons (MRCS)
     institution: Royal College of Surgeons in Ireland
     date_end: 2018-03-01
-  - area: Bachelor of Medicine & Bachelor of Surgery (MBBS)
-    insitution: Barts & The London School of Medicine & Dentistry, Queen Mary University of London
+  - area: Bachelor of Medicine & Bachelor of Surgery (MBBS), Clinical Medicine
+    institution: Barts & The London School of Medicine & Dentistry, Queen Mary University of London
     date_start: 2007-09-01
     date_end: 2014-05-31
   - area: Doctor of Philosophy (PhD), Oncology
@@ -61,11 +61,11 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21432577870003606'
-  - area: Master of Arts
+  - area: Master of Arts (MA)
     institution: University of Cambridge
     date_start: 2016-01-01
     date_end: 2020-12-31
-  - area: Bachelor of Arts (Honours)
+  - area: Bachelor of Arts (BA) Honours, Preclinical Medicine, Medical & Natural Sciences (Pharmacology)
     institution: University of Cambridge
     date_start: 2004-10-01
     date_end: 2008-05-31
