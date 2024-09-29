@@ -46,13 +46,13 @@ interests:
 
 education:
   - area: Membership of the Royal College of Surgeons (MRCS)
-    institution: Royal College of Surgeons in Ireland
+    institution: The Royal College of Surgeons in Ireland
     date_end: 2018-03-01
-  - area: Bachelor of Medicine & Bachelor of Surgery (MBBS), Clinical Medicine
+  - area: Bachelor of Medicine & Bachelor of Surgery (MBBS)
     institution: Barts & The London School of Medicine & Dentistry, Queen Mary University of London
     date_start: 2007-09-01
     date_end: 2014-05-31
-  - area: Doctor of Philosophy (PhD), Oncology
+  - area: Doctor of Philosophy (PhD)
     institution: University of Cambridge
     date_start: 2008-10-01
     date_end: 2013-09-30
@@ -65,7 +65,7 @@ education:
     institution: University of Cambridge
     date_start: 2016-01-01
     date_end: 2020-12-31
-  - area: Bachelor of Arts (BA) Honours, Preclinical Medicine, Medical & Natural Sciences (Pharmacology)
+  - area: Bachelor of Arts (BA) Honours
     institution: University of Cambridge
     date_start: 2004-10-01
     date_end: 2008-05-31
